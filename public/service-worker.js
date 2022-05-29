@@ -1,4 +1,4 @@
-const APP_PREFIX = 'moneybag-';     
+const APP_PREFIX = 'moneybagPWAbudgetTracker-';     
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 
