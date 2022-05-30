@@ -41,10 +41,11 @@
             "type": "image/png"
         }
     ],
-    "name": "Budget-Tracker",
-    "short_name": "B-Tracker",
+    "name": "Money Bag ",
+    "short_name": "Budget",
     "display": "standalone",
-    "start_url": ".",
+    "start_url": "./index.html",
+    "description": "Giving users a fast and easy way to track their money.",
     "theme_color": "#ffffff",
     "background_color": "#6666ff"
 }
